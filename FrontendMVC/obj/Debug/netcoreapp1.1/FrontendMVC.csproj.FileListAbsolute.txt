@@ -1,0 +1,9 @@
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\bin\Debug\netcoreapp1.1\FrontendMVC.deps.json
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\bin\Debug\netcoreapp1.1\FrontendMVC.runtimeconfig.json
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\bin\Debug\netcoreapp1.1\FrontendMVC.runtimeconfig.dev.json
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\bin\Debug\netcoreapp1.1\FrontendMVC.dll
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\bin\Debug\netcoreapp1.1\FrontendMVC.pdb
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\obj\Debug\netcoreapp1.1\FrontendMVC.csprojResolveAssemblyReference.cache
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\obj\Debug\netcoreapp1.1\FrontendMVC.AssemblyInfo.cs
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\obj\Debug\netcoreapp1.1\FrontendMVC.dll
+C:\Users\bcline-build\Desktop\FrontendMVC\FrontendMVC\obj\Debug\netcoreapp1.1\FrontendMVC.pdb
